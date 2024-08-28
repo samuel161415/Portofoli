@@ -82,7 +82,7 @@ export const projects = [
   {
     id: 2,
     title: "A2SV Hackathon",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    des: "Hackathon.a2sv.org is more than just a tracking tool; it's a dynamic community platform designed to connect, educate, and inspire innovation among students and tech enthusiasts. By providing a comprehensive view of the hackathon's progress and participants, we aim to create a transparent, informative, and collaborative environment for everyone involved.",
     img: "/hackathon_web.png",
     iconLists: ["/angular.svg", "/tail.svg", "/ts.svg", "/cloud.svg"],
     link: "https://hackathon.a2sv.org/",
