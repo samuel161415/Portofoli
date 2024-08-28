@@ -40,7 +40,7 @@ const Clients = () => {
                   alt={company.name}
                   width={company.id === 4 || company.id === 5 ? 100 : 150}
                   className="md:w-24 w-20"
-                /> : <p class="text-xl">{company.name}</p>
+                /> : <p className="text-xl">{company.name}</p>
                 }
               
               </div>
